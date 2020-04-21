@@ -1,0 +1,43 @@
+
+Main()
+    Bar()
+    System.out.println("Main")
+
+Bar()
+    DoWork()
+    System.out.println("Bar")
+
+DoWork()
+    DoMore()
+    System.out.println("DoWork")
+
+DoMore()
+    System.out.println("DoMore")
+
+
+
+// DoMore, Dowork, Bar, Main
+// Stack
+
+
+
+foo(n){
+    if(n<1)
+        return
+
+     else
+      foo(n-1)
+
+    System.out.println(n);
+
+}
+
+Main(){
+    foo(3);
+}
+
+// foo(3) , foo(2), foo(1)
+//  1 2 3
+
+
+
