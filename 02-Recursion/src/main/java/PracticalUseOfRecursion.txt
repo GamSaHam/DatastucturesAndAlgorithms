@@ -1,0 +1,7 @@
+
+Stack
+Tree - Traversal/Searching/Insertion/Deleteion
+Sorting - Quick Sort, Merge Sort
+Divide and Conquer
+Dynamic Programming -
+Etc ..
