@@ -1,6 +1,6 @@
 
 Stack
-Tree - Traversal/Searching/Insertion/Deleteion
+Tree - Traversal/Searching/Insertion/Deletion
 Sorting - Quick Sort, Merge Sort
 Divide and Conquer
 Dynamic Programming -

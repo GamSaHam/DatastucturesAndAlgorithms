@@ -1,0 +1,17 @@
+
+TimeComplexity  |      Name     |    Example
+-----------------------------------------------
+O(1)            |     Constance | Adding and element at front of linked list
+O(log n)        | logarithmic   | Finding an element in sorted array
+O(n)            | Linear        | Findin an element in unsorted array
+O(n logN)       | Linear Logarithmic |      Merge Sort
+O(n^2)          | Quadratic         | Shortest path between 2 nodes in a graph
+O(n^3)          | Cubic             | Maxtrix Multiplication
+O(2^n)          | Exponential       | lower of Hanoi Problem
+
+------------------
+
+시간 복잡도(TimeComplex)가 높으면 element 들이 많아 질수록 기하급수적으로 해결 시간이 올라 간다.
+
+
+

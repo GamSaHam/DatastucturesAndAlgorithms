@@ -1,0 +1,27 @@
+
+
+What is 'Algo Run Time Analysis'?
+- it is a study of a fiven algorithm's running time, by identifying its
+    behavior as the input size for the algorithm increases, in a layman's
+    language we can say, 'how much time will the given algorithm will take to run'
+
+
+Whay should we learn this?
+
+to measure 'efficiency' of a given algorithm
+if we don't learn this topic, this is how our program would look like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+차에 비유하여
+
+차가
+
+도로에서 10km
+
+교속도로에서 20km
+
+평균 15km
+
+Worse case
+
+Best case
+
+average case
+
+--------------------------------------
+
+a
+Omega
+running time of a given algorithm will not be less than given time
+
+
+Bit-O
+
+Ina layman's language we can say that for any given input, running time of
+a fiven algorithm will not be more than given time
+
+Theta
+
+upper bound lower bound of a give algorithm are same or not
+running time of a given algorithm will on an average be equal to given time

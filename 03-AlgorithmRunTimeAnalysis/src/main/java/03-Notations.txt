@@ -1,0 +1,29 @@
+
+5, 18, 3, 54, 26, ... , 55, 41, ..., 19, 1, 10
+
+find number 10
+
+n time
+
+n unit of time
+
+nx1 = n
+
+Omega
+    Omega(1)
+
+Big-O
+    Bit-O(n)
+
+Theta
+    Theta(n/2)
+
+
+
+
+
+
+
+
+
+
